@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+faiss-cpu
+redis
+openai
+sentence-transformers
+scikit-learn
+pydantic
+prometheus-client
+python-dotenv
+tqdm
